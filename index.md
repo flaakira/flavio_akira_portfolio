@@ -23,7 +23,7 @@ My name is [**Flavio Akira**](https://www.linkedin.com/in/flavio-akira/?locale=e
 
 
 - [x] This is the legendary Titanic ML competition from [Kaggle](https://www.kaggle.com/c/titanic), This project I used machine learning to predicts which passengers survived the Titanic shipwreck. My model had a 75% accurancy rate.
-[Titanic](https://github.com/flaakira/Kaggle/blob/master/Titanic.ipynb)
+
 
 
 _Programming Language:_
