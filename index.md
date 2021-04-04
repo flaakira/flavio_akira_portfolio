@@ -2,22 +2,20 @@
 
 Hi, My name is Flavio Akira
 
-Data Analyst| Data Scientist
+Data Analyst  Data Scientist
 
-# TEst
+# About me:
+
+![profile](https://www.facebook.com/photo?fbid=940174852717868&set=a.110669999001695)
+
+
+'''A surfing data scientist you say? Wecome to my world. I am passionate about the possibilities of AI and the grandeaur of Mother Nature.
+
+Join me on this journey of growth and grit as a data scientist, investor, writer, and waterman.
+
+Find me on ClubHouse (@jaysueno) and Twitter (@therealjaysueno)
 ## Header 2
-### Header 3
+### Header 3'''
 
 
 [Link](https://www.linkedin.com/in/flavio-akira/?locale=en_US) and ![Portifolio](C:\Users\Public\Pictures)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/flaakira/flavio_akira_portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
