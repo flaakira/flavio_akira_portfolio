@@ -7,11 +7,14 @@
 [Data Analyst](https://www.linkedin.com/in/flavio-akira/?locale=en_US) | 
 
 
+
 # About me:
 
+My name is [**Flavio Akira**](https://www.linkedin.com/in/flavio-akira/?locale=en_US) and I'm a **Data Analyst** student at Southern Alberta Institute of Technology [SAIT](https://www.sait.ca/programs-and-courses/certificates/data-analytics-part-time) and graduated in economics. I strongly believe using data-driven we can help businesses to move forward and from ideas and the right questions around what you want to measure and how to capture data accurately, prepare data, analysis, and management, to a clean, organized, and understandable presentation.
 
 
-<p style="## Projects:;">Centered text</p>
+
+
 ## Projects:
 - [x] [Titanic](https://github.com/flaakira/Kaggle/blob/master/Titanic.ipynb)
 ![Titanic](https://user-images.githubusercontent.com/60953136/113512507-337a1e80-9522-11eb-933b-2868b8d7e97a.png)
@@ -26,12 +29,26 @@ __Programming Language:__
     * sklearn_model_selection (train_test_split)
     * sklearn_model_selection (KFold)
     * sklearn_model_selection (RepeatedKFold)
-    * matplotlib 
-    * pylab 
+    * matplotlib_pylab 
+
+
+- [x] [House Prices](https://github.com/flaakira/Kaggle/blob/master/House_prices.ipynb)
+![house price](https://user-images.githubusercontent.com/60953136/113513579-a3d76e80-9527-11eb-8005-662309beadd5.png)
+
+This project [House Prices](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview) is focused on the number of rooms, area, pool, extra... There are so many items to describe how we will evaluate the price of the house. 
+
+Thinking about it, this project through machine learning evaluates the price of the houses.
+
+__Programming Language:__
+  * Python
+    * Pandas
+    * Numpy
+    * Seaborn
+    * sklearn_preprocessing(LabelEncoder)
+    * scipy_stats(skew)
+    * scipy_special(boxcox1p)
+    * scipy_stats(boxcox_normmax)
 
 
 
-
-
-### Header 3'''
 
