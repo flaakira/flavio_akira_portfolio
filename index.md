@@ -15,7 +15,8 @@ My name is [**Flavio Akira**](https://www.linkedin.com/in/flavio-akira/?locale=e
 
 
 ## Projects:
-- [x] #Titanic
+- [x] ### Titanic
+***
 ![Titanic](https://user-images.githubusercontent.com/60953136/113512507-337a1e80-9522-11eb-933b-2868b8d7e97a.png)
 
 This is the legendary Titanic ML competition from [Kaggle](https://www.kaggle.com/c/titanic), This project I used machine learning to predicts which passengers survived the Titanic shipwreck. My model had a 75% accurancy rate.
@@ -35,7 +36,8 @@ _Programming Language:_
 
 
 
-- [x] #House Price
+- [x] ### House Price
+***
 ![house price](https://user-images.githubusercontent.com/60953136/113513579-a3d76e80-9527-11eb-8005-662309beadd5.png)
 
 This project [House Prices](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview) is focused on the number of rooms, area, pool, extra... There are so many items to describe how we will evaluate the price of the house. 
@@ -56,7 +58,8 @@ _Programming Language:_
 
 
 
-- [ ] #COVID-19 Pandemic in Alberta!
+- [ ] ### COVID-19 Pandemic in Alberta!
+***
 ![Covid](https://user-images.githubusercontent.com/60953136/113514342-34fc1480-952b-11eb-96bf-cbd5e3ccfe75.png)
 
 Case study project trying to answer some specific business questions:
