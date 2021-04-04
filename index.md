@@ -15,7 +15,8 @@ My name is [**Flavio Akira**](https://www.linkedin.com/in/flavio-akira/?locale=e
 
 
 ## Projects:
-### - [x] Titanic
+### Titanic
+- [x]
 ***
 ![Titanic](https://user-images.githubusercontent.com/60953136/113512507-337a1e80-9522-11eb-933b-2868b8d7e97a.png)
 
@@ -36,7 +37,8 @@ _Programming Language:_
 
 
 
-### - [x] House Price
+### House Price
+- [x]
 ***
 ![house price](https://user-images.githubusercontent.com/60953136/113513579-a3d76e80-9527-11eb-8005-662309beadd5.png)
 
@@ -58,7 +60,8 @@ _Programming Language:_
 
 
 
-### - [ ] COVID-19 Pandemic in Alberta!
+### COVID-19 Pandemic in Alberta!
+- [ ]
 ***
 ![Covid](https://user-images.githubusercontent.com/60953136/113514342-34fc1480-952b-11eb-96bf-cbd5e3ccfe75.png)
 
