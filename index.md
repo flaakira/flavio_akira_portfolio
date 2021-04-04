@@ -1,15 +1,16 @@
 
 ## Welcome!
 
-Hi, My name is Flavio Akira
+# Hi, My name is **Flavio Akira**
+***
 
-[Data Analyst](https://www.linkedin.com/in/flavio-akira/?locale=en_US) | [Portfolio](https://github.com/flaakira)
+[Data Analyst](https://www.linkedin.com/in/flavio-akira/?locale=en_US) | 
 
 
 # About me:
 
-![Untitled](https://user-images.githubusercontent.com/60953136/113512056-252b0300-9520-11eb-89f6-fdecee62d852.png)
+<p style="## Projects:;">Centered text</p>
 
-## Header 2
+
 ### Header 3'''
 
