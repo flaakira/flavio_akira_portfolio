@@ -1,3 +1,12 @@
 theme: jekyll-theme-minimal
 
-title: <span style="color:blue">Portfolio *blue* text</span>
+<html>
+ <head>
+  <title> Portfolio</title>
+  <meta name="description" content="Como alterar a cor do plano de fundo de um site em HTML">
+ </head>
+ 
+ <body bgcolor="FF0000"> 
+ </body>
+ 
+</html>
