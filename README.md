@@ -1,6 +1,4 @@
-# flavio_akira_portfolio
-
-https://github.com/flaakira/flavio_akira_portfolio/edit/gh-pages/index.md
+Welcome!
 
 
-https://flaakira.github.io/flavio_akira_portfolio/
+This is the presentation of my personal and professional project.
