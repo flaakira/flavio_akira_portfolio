@@ -69,7 +69,7 @@ _Programming Language:_
 
 ![Covid](https://user-images.githubusercontent.com/60953136/113514342-34fc1480-952b-11eb-96bf-cbd5e3ccfe75.png)
 
-- [ ]Case study project trying to answer some specific business questions:
+- [ ] Case study project trying to answer some specific business questions:
   * _Question 1) First day December 15, 2020. Can we see any change at cases/ deaths by Covid 19 in Alberta since the beginning of vaccine campaign?_
  
   * _Question 2)How was the dissemination and propagation of the virus in Canada considering international and domestic cases?_
