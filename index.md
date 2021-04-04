@@ -14,14 +14,13 @@ My name is [**Flavio Akira**](https://www.linkedin.com/in/flavio-akira/?locale=e
 
 
 
-
 ## Projects:
-- [x] [Titanic](https://github.com/flaakira/Kaggle/blob/master/Titanic.ipynb)
+- [x] __[Titanic]__(https://github.com/flaakira/Kaggle/blob/master/Titanic.ipynb)
 ![Titanic](https://user-images.githubusercontent.com/60953136/113512507-337a1e80-9522-11eb-933b-2868b8d7e97a.png)
 
 This is the legendary Titanic ML competition from [Kaggle](https://www.kaggle.com/c/titanic), This project I used machine learning to predicts which passengers survived the Titanic shipwreck. My model had a 75% accurancy rate.
 
-__Programming Language:__
+_Programming Language:_
   * Python
     * Pandas
     * Numpy
@@ -32,14 +31,16 @@ __Programming Language:__
     * matplotlib_pylab 
 
 
-- [x] [House Prices](https://github.com/flaakira/Kaggle/blob/master/House_prices.ipynb)
+
+
+- [x] __[House Prices]__(https://github.com/flaakira/Kaggle/blob/master/House_prices.ipynb)
 ![house price](https://user-images.githubusercontent.com/60953136/113513579-a3d76e80-9527-11eb-8005-662309beadd5.png)
 
 This project [House Prices](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview) is focused on the number of rooms, area, pool, extra... There are so many items to describe how we will evaluate the price of the house. 
 
 Thinking about it, this project through machine learning evaluates the price of the houses.
 
-__Programming Language:__
+_Programming Language:_
   * Python
     * Pandas
     * Numpy
@@ -48,6 +49,23 @@ __Programming Language:__
     * scipy_stats(skew)
     * scipy_special(boxcox1p)
     * scipy_stats(boxcox_normmax)
+
+
+
+- [] COVID-19 pandemic in Alberta!
+![Covid](https://user-images.githubusercontent.com/60953136/113514342-34fc1480-952b-11eb-96bf-cbd5e3ccfe75.png)
+
+Case study project trying to answer some specific business questions:
+  * Question 1) First day December 15, 2020. Can we see any change at cases/ deaths by Covid 19 in Alberta since the beginning of vaccine campaign? 
+ 
+  * Question 2)How was the dissemination and propagation of the virus in Canada considering international and domestic cases?
+
+_Programming Language:_
+ * SQL
+ * Power BI
+ * Power Point
+ * 5W 1H - Analyse Question
+
 
 
 
