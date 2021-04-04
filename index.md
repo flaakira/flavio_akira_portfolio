@@ -1,29 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome!
 
-You can use the [editor on GitHub](https://github.com/flaakira/flavio_akira_portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hi, My name is Flavio Akira
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+Data Analyst| Data Scientist
 
 # TEst
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Portifolio](https://www.flickr.com/photos/192689930@N02/shares/eDs8LQ)
+[Link](https://www.linkedin.com/in/flavio-akira/?locale=en_US) and ![Portifolio](C:\Users\Public\Pictures)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
