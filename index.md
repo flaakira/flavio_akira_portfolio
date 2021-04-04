@@ -15,10 +15,12 @@ My name is [**Flavio Akira**](https://www.linkedin.com/in/flavio-akira/?locale=e
 
 
 ## Projects:
-- [x] ***[Titanic](https://github.com/flaakira/Kaggle/blob/master/Titanic.ipynb)
+- [x] ***Titanic
 ![Titanic](https://user-images.githubusercontent.com/60953136/113512507-337a1e80-9522-11eb-933b-2868b8d7e97a.png)
 
 This is the legendary Titanic ML competition from [Kaggle](https://www.kaggle.com/c/titanic), This project I used machine learning to predicts which passengers survived the Titanic shipwreck. My model had a 75% accurancy rate.
+[Titanic](https://github.com/flaakira/Kaggle/blob/master/Titanic.ipynb)
+
 
 _Programming Language:_
   * Python
@@ -33,12 +35,14 @@ _Programming Language:_
 
 
 
-- [x] ***[House Prices](https://github.com/flaakira/Kaggle/blob/master/House_prices.ipynb)
+- [x] ***House Price
 ![house price](https://user-images.githubusercontent.com/60953136/113513579-a3d76e80-9527-11eb-8005-662309beadd5.png)
 
 This project [House Prices](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview) is focused on the number of rooms, area, pool, extra... There are so many items to describe how we will evaluate the price of the house. 
 
 Thinking about it, this project through machine learning evaluates the price of the houses.
+[House Prices](https://github.com/flaakira/Kaggle/blob/master/House_prices.ipynb)
+
 
 _Programming Language:_
   * Python
