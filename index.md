@@ -1,7 +1,7 @@
 
 ## Welcome!
 
-# Hi, My name is **Flavio Akira**
+# Hi, My name is [**Flavio Akira**](https://www.linkedin.com/in/flavio-akira/?locale=en_US)
 ***
 
 [Data Analyst](https://www.linkedin.com/in/flavio-akira/?locale=en_US) | |[Email](mailto:fla_akira@hotmail.com?subject=[GitHub])|
@@ -10,7 +10,7 @@
 
 # About me:
 
-My name is [**Flavio Akira**](https://www.linkedin.com/in/flavio-akira/?locale=en_US) and I'm a **Data Analyst** student at Southern Alberta Institute of Technology [SAIT](https://www.sait.ca/programs-and-courses/certificates/data-analytics-part-time) and graduated in economics. I strongly believe using data-driven we can help businesses to move forward and from ideas and the right questions around what you want to measure and how to capture data accurately, prepare data, analysis, and management, to a clean, organized, and understandable presentation.
+I'm a **Data Analyst** student at Southern Alberta Institute of Technology [SAIT](https://www.sait.ca/programs-and-courses/certificates/data-analytics-part-time) and graduated in economics. I strongly believe using data-driven we can help businesses to move forward and from ideas and the right questions around what you want to measure and how to capture data accurately, prepare data, analysis, and management, to a clean, organized, and understandable presentation.
 
 
 
