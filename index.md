@@ -67,6 +67,5 @@ _Programming Language:_
  * 5W 1H - Analyse Question
 
 
-|[Contact me](fla_akira@hotmail.com)|
-
+|[Contac me](mailto:fla_akira@hotmail.com?subject=[GitHub])|
 
