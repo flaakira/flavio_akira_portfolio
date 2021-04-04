@@ -46,7 +46,7 @@ _Programming Language:_
 [House Prices-Project](https://github.com/flaakira/Kaggle/blob/master/House_prices.ipynb)
 
 
-- [x] This project [House Prices](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview) is focused on the number of rooms, area, pool, extra... There are so many items to describe how we will evaluate the price of the house. 
+- [x] This [Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview) project is focused on the number of rooms, area, pool, extra... There are so many items to describe how we will evaluate the price of the house. 
 
 Thinking about it, this project through machine learning evaluates the price of the houses.
 
