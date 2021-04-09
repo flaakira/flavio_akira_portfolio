@@ -68,6 +68,7 @@ _Programming Language:_
 ***
 
 ![Covid](https://user-images.githubusercontent.com/60953136/113514342-34fc1480-952b-11eb-96bf-cbd5e3ccfe75.png)
+[Covid - Project](https://github.com/flaakira/Data-Analyst---SAIT/tree/master/Data%20Preparation%20-%20Covid-19)
 
 - [ ] Case study project trying to answer some specific business questions:
   * _Question 1) First day December 15, 2020. Can we see any change at cases/ deaths by Covid 19 in Alberta since the beginning of vaccine campaign?_
