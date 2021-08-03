@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="style/style.css">
+<link rel="stylesheet" href="style.css">
 ## Welcome!
 
 # Hi, My name is [**Flavio Akira**](https://www.linkedin.com/in/flavio-akira/?locale=en_US)
