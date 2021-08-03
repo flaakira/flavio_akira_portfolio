@@ -1,3 +1,21 @@
-theme: jekyll-theme-minimal
-title: Portfolio
-description: Data Analyst
+@charset "UTF-08";
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+@font-face {
+    font-family: 'idroid';
+    src: url(fontes/idroid.otf) format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+:root{
+    --cor00:#210759;
+    --cor01:#22A2F2;
+    --cor02:#D5F2F2;
+    --cor03:#F2C230;
+    --cor04:#F2B694;
+
+    --fonte-padrao: Arial, Verdana, Helvetica, sans-serif;
+    --fonte-destaque: 'Bebas Neue', cursive;
+    --fonte-android: 'idroid', cursive;
