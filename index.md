@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="style.css">
 <h1>Welcome!</h1>
 
-# Hi, My name is [**Flavio Akira**](https://www.linkedin.com/in/flavio-akira/?locale=en_US)
+## Hi, My name is [**Flavio Akira**](https://www.linkedin.com/in/flavio-akira/?locale=en_US)
 ***
 
 [Linkedin](https://www.linkedin.com/in/flavio-akira/?locale=en_US) | |[Email](mailto:fla_akira@hotmail.com?subject=[GitHub])|
