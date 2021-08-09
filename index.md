@@ -4,7 +4,7 @@
 # Hi, My name is [**Flavio Akira**](https://www.linkedin.com/in/flavio-akira/?locale=en_US)
 ***
 
-[Data Analyst](https://www.linkedin.com/in/flavio-akira/?locale=en_US) | |[Email](mailto:fla_akira@hotmail.com?subject=[GitHub])|
+[Linkedin](https://www.linkedin.com/in/flavio-akira/?locale=en_US) | |[Email](mailto:fla_akira@hotmail.com?subject=[GitHub])|
 
 
 
